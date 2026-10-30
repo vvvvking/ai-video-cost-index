@@ -42,3 +42,5 @@ Rows sourced to Runway are the prices Runway publishes for those resold models; 
 Maintained by [NovAI](https://aiapi-pro.com), an OpenAI-compatible gateway for Chinese AI models at provider list price, 0% platform fee.
 
 _No affiliate links. Prices belong to their respective providers._
+
+Companion repos: [live price feed for 111 Chinese models](https://github.com/vvvvking/chinese-ai-api-prices) · [interactive calculator](https://vvvvking.github.io/novai-cost-index/).
