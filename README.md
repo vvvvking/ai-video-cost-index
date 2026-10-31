@@ -44,3 +44,5 @@ Maintained by [NovAI](https://aiapi-pro.com), an OpenAI-compatible gateway for C
 _No affiliate links. Prices belong to their respective providers._
 
 Companion repos: [live price feed for 111 Chinese models](https://github.com/vvvvking/chinese-ai-api-prices) · [interactive calculator](https://vvvvking.github.io/novai-cost-index/).
+
+Companion index: [AI image generation cost per image](https://github.com/vvvvking/ai-image-cost-index).
