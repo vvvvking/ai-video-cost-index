@@ -1,5 +1,9 @@
 # AI video cost index — list price per minute (2026)
 
+[![Seedance 2.5 price](https://aiapi-pro.com/badge/seedance-2-5.svg?v=2)](https://aiapi-pro.com/chinese-ai-api-pricing)
+
+`/badge` serves a one-line SVG for any of the 111 models — [embed one](https://aiapi-pro.com/badge).
+
 **Full table:** all 111 Chinese models with list prices in one page — [Chinese AI API pricing comparison](https://aiapi-pro.com/chinese-ai-api-pricing)
 
 Thirteen video models normalised to one unit: **USD per minute of finished output**. Per-second rates are not comparable across providers, because resolution and native audio change the billing tier.
