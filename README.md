@@ -1,5 +1,7 @@
 # AI video cost index — list price per minute (2026)
 
+**Full table:** all 111 Chinese models with list prices in one page — [Chinese AI API pricing comparison](https://aiapi-pro.com/chinese-ai-api-pricing)
+
 Thirteen video models normalised to one unit: **USD per minute of finished output**. Per-second rates are not comparable across providers, because resolution and native audio change the billing tier.
 
 List prices checked **2026-10-30**. Every row links to the provider's own pricing page.
